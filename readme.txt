@@ -28,6 +28,9 @@ Keep in mind that the plugin does nothing if BuddyPress isn't installed or activ
 
 == Changelog ==
 
+= 0.3.0 =
+* Add hooks for any other components
+
 = 0.2.0 =
 * Add Readme.txt and Readme.md
 

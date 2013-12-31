@@ -3,7 +3,7 @@
 * **Tags:** buddypress, search
 * **Requires at least:** 3.8
 * **Tested up to:** 3.8
-* **Stable tag:** 0.2
+* **Stable tag:** 0.3
 * **License:** GPLv2 or later
 * **License URI:** http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -27,6 +27,9 @@ Keep in mind that the plugin does nothing if BuddyPress isn't installed or activ
 3. Configure the plugin by going to the Settings > Search Everything menu
 
 ## Changelog ##
+
+### 0.3.0 ###
+* Add hooks for any other components
 
 ### 0.2.0 ###
 * Add Readme.txt and Readme.md

@@ -69,6 +69,9 @@ function bp_search_everything_show_search_results() {
 		$types[] = $key;
 	}
 
+	// Do any custom searches before
+	do_action( 'bp-search-everything-before-search', $words );
+
 	// Search posts, pages and custom content types
 	bp_search_everything_process_custom ( $types, $words );
 
@@ -86,6 +89,9 @@ function bp_search_everything_show_search_results() {
 	// Search activity
 	if ( bp_is_active( 'activity' ) )
 		bp_search_everything_process_updates ( $words );
+
+	// Do any custom searches after
+	do_action( 'bp-search-everything-after-search', $words );
 
 	// Close div
 	echo '</div>';
