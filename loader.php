@@ -3,7 +3,7 @@
 Plugin Name: BuddyPress Search Everything
 Plugin URI: http://github.com/zedejose/bp-search-everything
 Description: Allows searching across all BP/WP content
-Version: 0.1
+Version: 0.2
 Revision Date: DEC 20, 2013
 Requires at least: WP 3.8, BuddyPress 1.9
 Tested up to: WP 3.8, BuddyPress 1.9
@@ -18,7 +18,7 @@ define( 'BP_SEARCH_EVERYTHING_IS_INSTALLED', 1 );
 
 // Define a constant that will hold the current version number of the component
 // This can be useful if you need to run update scripts or do compatibility checks in the future
-define( 'BP_SEARCH_EVERYTHING_VERSION', '0.1' );
+define( 'BP_SEARCH_EVERYTHING_VERSION', '0.2' );
 
 // Define a constant that we can use to construct file paths throughout the component
 define( 'BP_SEARCH_EVERYTHING_PLUGIN_DIR', dirname( __FILE__ ) );
