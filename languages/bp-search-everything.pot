@@ -1,0 +1,124 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/bp-search-everything\n"
+"POT-Creation-Date: 2013-12-31 14:50:41+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/bp-search-everything-admin.php:24
+#: includes/bp-search-everything-admin.php:62
+msgid "Search Everything Settings"
+msgstr ""
+
+#: includes/bp-search-everything-admin.php:25
+#: includes/bp-search-everything-loader.php:43
+msgid "Search Everything"
+msgstr ""
+
+#: includes/bp-search-everything-admin.php:65
+msgid "Settings Updated."
+msgstr ""
+
+#: includes/bp-search-everything-admin.php:72
+msgid "General Settings"
+msgstr ""
+
+#: includes/bp-search-everything-admin.php:73
+msgid "Maximum Number of Results"
+msgstr ""
+
+#: includes/bp-search-everything-admin.php:99
+msgid "Search Custom Content"
+msgstr ""
+
+#: includes/bp-search-everything-admin.php:124
+msgid "Save Settings"
+msgstr ""
+
+#: includes/bp-search-everything-filters.php:23
+msgid "Advanced Search"
+msgstr ""
+
+#: includes/bp-search-everything-functions.php:33
+msgid "Members"
+msgstr ""
+
+#: includes/bp-search-everything-functions.php:63
+msgid "View all found members"
+msgstr ""
+
+#: includes/bp-search-everything-functions.php:68
+msgid "No Members Found"
+msgstr ""
+
+#: includes/bp-search-everything-functions.php:103
+msgid "Groups"
+msgstr ""
+
+#: includes/bp-search-everything-functions.php:130
+msgid "View all found groups"
+msgstr ""
+
+#: includes/bp-search-everything-functions.php:135
+msgid "No Groups Found"
+msgstr ""
+
+#: includes/bp-search-everything-functions.php:171
+msgid "Forum Topics"
+msgstr ""
+
+#: includes/bp-search-everything-functions.php:198
+msgid "View all found topics"
+msgstr ""
+
+#: includes/bp-search-everything-functions.php:203
+msgid "No Topics Found"
+msgstr ""
+
+#: includes/bp-search-everything-functions.php:239
+msgid "Updates"
+msgstr ""
+
+#: includes/bp-search-everything-functions.php:270
+msgid "View all found updates"
+msgstr ""
+
+#: includes/bp-search-everything-functions.php:275
+msgid "No Updates Found"
+msgstr ""
+
+#: includes/bp-search-everything-functions.php:313
+msgid ", and "
+msgstr ""
+
+#: includes/bp-search-everything-functions.php:349
+msgid "View all found items"
+msgstr ""
+
+#: includes/bp-search-everything-functions.php:354
+msgid "No Items Found"
+msgstr ""
+
+#: includes/bp-search-everything-widgets.php:29
+msgctxt "Title of the widget"
+msgid "Search Everything"
+msgstr ""
+
+#: includes/bp-search-everything-widgets.php:31
+msgid "Shows the Search Everything form."
+msgstr ""
+
+#: includes/bp-search-everything-widgets.php:106
+msgid "Title:"
+msgstr ""
+
+#: includes/bp-search-everything-widgets.php:111
+msgid "Hide submit button?"
+msgstr ""
