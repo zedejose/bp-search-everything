@@ -3,7 +3,7 @@
 Plugin Name: BuddyPress Search Everything
 Plugin URI: http://github.com/zedejose/bp-search-everything
 Description: Allows searching across all BP/WP content
-Version: 0.2
+Version: 0.3
 Revision Date: DEC 20, 2013
 Requires at least: WP 3.8, BuddyPress 1.9
 Tested up to: WP 3.8, BuddyPress 1.9
